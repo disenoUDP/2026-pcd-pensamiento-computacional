@@ -7,21 +7,21 @@
 
 - rafaela córdova domínguez
   - rafispiwis
-  - <https://editor.p5js.org/rafispiwis/sketches/v_uKk19sD>
-  - [./rafispiwis](./rafispiwis)
+  - editor p5.js: <https://editor.p5js.org/rafispiwis/sketches/v_uKk19sD>
+  - local: [./rafispiwis](./rafispiwis)
 - antonella olivieri palma
   - apuntoli
-  - <https://editor.p5js.org/apuntoli/sketches/1Z8zgI4Eq>
-  - [./apuntoli](./apuntoli)
+  - editor p5.js:<https://editor.p5js.org/apuntoli/sketches/1Z8zgI4Eq>
+  - local: [./apuntoli](./apuntoli)
 - Amanda de la Fuente
   - amanda-delafuente
-  - <https://editor.p5js.org/amanda-delafuente/sketches/QVxbt9SIh>
-  - [./amanda-delafuente](./amanda-delafuente)
+  - editor p5.js: <https://editor.p5js.org/amanda-delafuente/sketches/QVxbt9SIh>
+  - local: [./amanda-delafuente](./amanda-delafuente)
 - catalina rodríguez muñoz
   - K4TIUSKA
-  - <https://editor.p5js.org/K4TIUSKA/sketches/DN8LrVAez>
-  - [./K4TIUSKA](./K4TIUSKA)
+  - editor p5.js: <https://editor.p5js.org/K4TIUSKA/sketches/DN8LrVAez>
+  - local: [./K4TIUSKA](./K4TIUSKA)
 - maría josé armijo peters
   - coteeee
-  - [link editor](https://editor.p5js.org/coteeee/sketches/rclYSGHsz)
-  - [./coteeee](./coteeee)
+  - editor p5.js: [link editor](https://editor.p5js.org/coteeee/sketches/rclYSGHsz)
+  - local: [./coteeee](./coteeee)
