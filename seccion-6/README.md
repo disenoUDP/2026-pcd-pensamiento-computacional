@@ -1,12 +1,11 @@
 # seccion-6
 
 - profesore: sofía suazo
-- ayudante: jacinta barrenechea
+- ayudante: jacinta barrenechea / valentina chávez
 
 ## estudiantes
 
-- nombre
-  - github?
-  - link editor
-  - link local
+- rafaela córdova domínguez
+  - rafispiwis
+  - <https://editor.p5js.org/rafispiwis/sketches/v_uKk19sD>
   - ./rafispiwis
