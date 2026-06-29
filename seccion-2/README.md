@@ -9,22 +9,22 @@
   - JULIO ANDREE AGUILAR, JAVIERA CORRAL HERRERA
   - editor p5.js: <https://editor.p5js.org/andrenaliine/sketches/bTFx_3FAd>
   - editor p5.js pantalla completa: <https://editor.p5js.org/andrenaliine/full/bTFx_3FAd>
-  - local:
+  - local: [andrenaliine](./andrenaliine)
 - Cuerpo en Venta
   - MARIANNE BALKENHOL VALENZUELA
   - editor p5.js: <https://editor.p5js.org/marianne88/sketches/7YtL7qqH4>
   - editor p5.js pantalla completa: <https://editor.p5js.org/marianne88/full/7YtL7qqH4>
-  - local:
+  - local: [marianne88](./marianne88)
 - Memorias entre las olas?
   - MATÍAS CAMPUSANO, ADRIANO ESPINOZA LEYTON
   - editor p5.js: <https://editor.p5js.org/campossantom/sketches/EiKsR5mmp>
   - editor p5.js pantalla completa: <https://editor.p5js.org/campossantom/full/EiKsR5mmp>
-  - local:
+  - local: [campossantom](./campossantom)
 - VIOLENCIA SICOLÓGICA
   - CAMILA SEPULVEDA, TAMARA BARBERÁN
   - editor p5.js: <https://editor.p5js.org/tamara.barberan/sketches/bkN77vT0a>
   - editor p5.js pantalla completa: <https://editor.p5js.org/tamara.barberan/full/bkN77vT0a>
-  - local:
+  - local: [tamarabarberan](./tamarabarberan)
 - ¡Tu opinión no nos importa!
   - GABRIELA FERRADA, FRANCISCA OVALLE
   - editor p5.js: <https://editor.p5js.org/gabyferradaexe/sketches/Lt-R7fSRp>
